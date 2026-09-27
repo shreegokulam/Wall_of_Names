@@ -78,7 +78,7 @@ export default function App() {
   return (
     <div className="wrap">
       <div className="plaque">
-        <h1 className="title">Wall of Names</h1>
+        <h1 className="title">ASTHIKA SAMAJ - Wall of Names</h1>
         <p className="subtitle">Everyone who's been here, engraved below</p>
         <div className="divider" />
 
